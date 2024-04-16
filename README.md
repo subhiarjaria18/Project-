@@ -1,4 +1,4 @@
-# Project-
+# Project_1
 Heart Disease Classification 
 Project Overview:
 The primary objective of this project was to leverage machine learning methodologies for predicting the 10-year risk of coronary heart disease (CHD) among patients, utilizing data sourced from an ongoing cardiovascular study conducted in Framingham, Massachusetts. The dataset comprised information from over 4,000 patients, encompassing 15 attributes representing diverse risk factors for CHD, spanning demographic, behavioral, and medical domains.
